@@ -1,4 +1,4 @@
-## Hi there, let's have some fun! 😉💦
+## Hi there,
 
 <!--
 **atharva-0932/atharva-0932** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
