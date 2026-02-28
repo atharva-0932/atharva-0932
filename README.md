@@ -1,20 +1,22 @@
-# Hi there! 👋 I'm Atharva Sawant
+<div align="center">
 
-### Full-Stack Developer | AI/ML Developer
+# Atharva Sawant
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Software+Engineer+focused+on+Full-Stack+Web+Apps+and+Data-Driven+ML+Systems.)](https://git.io/typing-svg)
+
+</div>
+
 
 # 💫 About Me:
 
 ### Full-Stack Developer | Data Science Enthusiast | Logic-First Builder
 
-🔭 **I'm currently working on**: Enhancing full-stack web applications and optimizing predictive ML models.
+I am a developer focused on building scalable web applications and exploring the intersection of technology and innovation. My work is rooted in objective analysis and solving complex problems with verifiable results.
 
-🌱 **I'm constantly learning**: Deepening my expertise in System Architecture and advanced Neural Networks.
+### 🏆 Achievements & Certifications
+* **AIML Domain Winner @ LOC 8.0 Hackathon**: Organised by **ACM, DJSCE Mumbai**. 
+* **Winner @ Nirvaana Ideathon**: Organised by **GDG x IEEE, DJSCE Mumbai**.
 
-💡 **Logic & Evidence**: I prioritize solving complex problems with data-driven solutions and clean, documented code.
-
-🤝 **Collaboration**: I'm open to contributing to open-source projects involving React, Python, or Cloud Infrastructure.
-
----
 
 ## 💻 Tech Stack:
 
@@ -30,7 +32,7 @@
 ### Databases & Cloud
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
----
+
 
 ## 📊 GitHub Stats:
 
@@ -44,7 +46,7 @@
 
 </div>
 
----
+
 
 ## 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/atharvasawant246) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:atharvasawant246@gmail.com)
