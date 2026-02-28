@@ -1,6 +1,6 @@
 <div align="center">
 
-# Atharva Sawant
+# ATHARVA SAWANT
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Software+Engineer+focused+on+Full-Stack+Web+Apps+and+Data-Driven+ML+Systems.)](https://git.io/typing-svg)
 
